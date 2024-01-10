@@ -173,7 +173,7 @@ const Header = props => {
                 }}>
                     <img src={Logo} alt=''></img>
 
-                    <img src={Hamburguer} style={{cursor: 'pointer'}} 
+                    <img src={Hamburguer} alt='' style={{cursor: 'pointer'}} 
                         onClick={() => {
                             if(!props.showOverlay){
                                 props.setShowOverlay(true)
@@ -192,7 +192,7 @@ const Header = props => {
                 }}>
                     <img src={Logo} alt=''></img>
 
-                    <img src={Hamburguer} style={{cursor: 'pointer', marginBottom: '10px'}} 
+                    <img src={Hamburguer} alt='' style={{cursor: 'pointer', marginBottom: '10px'}} 
                         onClick={() => {
                             if(!props.showOverlay){
                                 props.setShowOverlay(true)
