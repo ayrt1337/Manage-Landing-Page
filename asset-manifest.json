@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Manage-Landing-Page/static/css/main.6cfc0a95.css",
+    "main.js": "/Manage-Landing-Page/static/js/main.1dd23791.js",
+    "static/js/787.6468995c.chunk.js": "/Manage-Landing-Page/static/js/787.6468995c.chunk.js",
+    "static/media/avatar-ali.png": "/Manage-Landing-Page/static/media/avatar-ali.88f9155cb730934f4d7c.png",
+    "static/media/avatar-shanai.png": "/Manage-Landing-Page/static/media/avatar-shanai.4bbe2f95e8975736fbd8.png",
+    "static/media/illustration-intro.svg": "/Manage-Landing-Page/static/media/illustration-intro.cb9a8a9551ca99f99a125230d38a2c36.svg",
+    "static/media/avatar-anisha.png": "/Manage-Landing-Page/static/media/avatar-anisha.484e15bc92ce6a0106ab.png",
+    "static/media/avatar-richard.png": "/Manage-Landing-Page/static/media/avatar-richard.ace8e0892f67a50c1e9e.png",
+    "static/media/logo.svg": "/Manage-Landing-Page/static/media/logo.66a576108be35c08eb2ca3e40c17d151.svg",
+    "static/media/svg-edited.svg": "/Manage-Landing-Page/static/media/svg-edited.0333ac69cac043a66a9783f49e6e1077.svg",
+    "static/media/icon-instagram.svg": "/Manage-Landing-Page/static/media/icon-instagram.54d3962efa2aa6085b776d1816557a6a.svg",
+    "static/media/icon-pinterest.svg": "/Manage-Landing-Page/static/media/icon-pinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "index.html": "/Manage-Landing-Page/index.html",
+    "static/media/icon-twitter.svg": "/Manage-Landing-Page/static/media/icon-twitter.01a8907dd0beb126cff27d505c31be52.svg",
+    "static/media/icon-youtube.svg": "/Manage-Landing-Page/static/media/icon-youtube.7d6960fbb0c4831f7c667012f0b102d2.svg",
+    "static/media/icon-facebook.svg": "/Manage-Landing-Page/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/bg-simplify-section-desktop.svg": "/Manage-Landing-Page/static/media/bg-simplify-section-desktop.ca40c1eebd150b1cc7dc266ce0b13d87.svg",
+    "static/media/icon-close.svg": "/Manage-Landing-Page/static/media/icon-close.d5ba0dc53461cfc81979638f3b9fcf2e.svg",
+    "static/media/icon-hamburger.svg": "/Manage-Landing-Page/static/media/icon-hamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
+    "main.6cfc0a95.css.map": "/Manage-Landing-Page/static/css/main.6cfc0a95.css.map",
+    "main.1dd23791.js.map": "/Manage-Landing-Page/static/js/main.1dd23791.js.map",
+    "787.6468995c.chunk.js.map": "/Manage-Landing-Page/static/js/787.6468995c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cfc0a95.css",
+    "static/js/main.1dd23791.js"
+  ]
+}
